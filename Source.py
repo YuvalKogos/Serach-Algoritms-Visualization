@@ -7,7 +7,7 @@ import math
 A_star = True #IF false - Dikstra's algorithm
 
 GRID_SIZE = 25
-WINDOW_SIZE = 650
+WINDOW_SIZE = GRID_SIZE*GRID_SIZE
 START_POSITION = (1,1)
 END_POSITION = (24,19)
 MARKED = 50
