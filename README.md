@@ -1,4 +1,4 @@
-# Serach-Algoritms-Visualization
+# Search-Algoritms-Visualization
 Making a visualization for famous search algorithms from scratch in Python (without external libraries),
 In goal of get full understanding of those algorithms.
 
